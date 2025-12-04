@@ -4,14 +4,14 @@ Screening Test – Solutions
 Language Used:
 **Python**  
 
-  Program Files
+  **Program Files**
   
     Program-1.py
     Program-2.py
     Program-3.py
     Program-4.py
 
-How to Run
+**How to Run**
 
     python Program-1.py 
   
@@ -45,6 +45,7 @@ How to Run
       1, 3, 5, 7, 9, 11, 13
 
     python Program-3.py
+    
     ============== RESTART: C:\Users\user\Desktop\python\Program-3.py 
       Enter a: 1
       1
